@@ -42,12 +42,9 @@ iframe#tela{
    height: 479px;}
 
 section#redes-sociais{
-    position: absolute;
-    top:60%;
-    left:90%;
-    transform: translate(-30% , -60%);
-       }
-    
+    text-align: right;
+}
+
 section#redes-sociais img{
     box-sizing: border-box;
     margin: 5px;
