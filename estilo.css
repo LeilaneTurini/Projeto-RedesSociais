@@ -45,6 +45,7 @@ section#redes-sociais{
  text-align: right;}
     
 section#redes-sociais img{
+    padding: 3px;
     margin: 5px;
     width: 50px; 
     border-radius: 50%;
